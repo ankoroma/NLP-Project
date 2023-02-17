@@ -21,7 +21,7 @@ The scope of this project encompasses the following:
 
 1. Collecting and cleaning relevant data related to customer behavior and feedback.
 2. Developing and training a NLP model to forecast customer churn.
-3. Analyzing the results of the machine learning model to investigate the similarities among customers who are most likely to stay with the company.
+3. Analyzing the results of the NLP model to investigate the similarities among customers who are most likely to stay with the company.
 4. Retrieving and Analyzing surveys or interviews with customers to determine why they are leaving the company.
 5. Creating a report that summarizes the project's findings and provides recommendations for T-Mobile and other telecommunication companies.
 
